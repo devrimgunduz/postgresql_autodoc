@@ -18,6 +18,10 @@ This program requires the following perl modules:
 
 ** Installation
 
+*** RPM based distros
+
+dnf/yum/zypper install postgresql_autodoc
+
 *** Ubuntu
 
 (Debian should be similar/identical)
